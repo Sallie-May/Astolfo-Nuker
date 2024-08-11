@@ -56,7 +56,7 @@ Configure the bot by editing the config.json file with your bot token:
 Run the bot:
 
 ```bash
-python astolfo_nuker.py
+python main.py
 ```
 Bot Commands
 The bot uses the prefix > by default. Here are some of the available commands:
